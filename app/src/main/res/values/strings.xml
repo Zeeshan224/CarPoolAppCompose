@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CarPoolCompose</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="enter_confirm_password">Please Confirm Password</string>
+    <string name="create">Create an account to get all features</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="regular_part">Don\'t have account?</string>
+     <string name="bold_part">Sign Up</string>
+    <string name="text_regular">Already have an account?</string>
+    <string name="text_bold">Login here</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="group_id">Group Id</string>
+    <string name="user_id">User Id</string>
+    <string name="heading">Let’s Get Started!</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="description">Create an account to get all features</string>
+    <string name="pool">POOL</string>
+    <string name="log_in">Login</string>
+    <string name="existing_account">Login to existing account</string>
+    <string name="or_sign_up">Or sign up using</string>
+    <string name="logo">POOL</string>
+    <string name="welcome_message">Welcome Back!</string>
+</resources>
